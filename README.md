@@ -36,6 +36,7 @@ Vous pouvez maintenant démarrer l'application !<br>
 On vous demandera d'ouvrir une page Web pour vous authentifier sur Spotify. Si tout se passe bien, la dernière chose que vous devriez voir est :
 ```json
 {"success": true}
+```
 Vous pouvez alors fermer la page et revenir sur votre terminal, où vous devriez voir un message de confirmation. Ensuite, le programme se connectera à Instagram en utilisant les informations d'identification fournies dans votre/vos fichier(s) d'environnement.
 
 Si votre compte est protégé par la 2FA, mais que vous n'avez pas rempli le champ INSTAGRAM_2FA_SEED, vous devrez fournir un code 2FA.
