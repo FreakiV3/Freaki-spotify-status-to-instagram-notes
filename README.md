@@ -55,6 +55,4 @@ Si vous rencontrez un problème, veuillez ouvrir un problème sur ce dépôt, et
 Contribution
 Si vous souhaitez contribuer à ce projet, n'hésitez pas à ouvrir une demande de pull, je serai ravi de l'examiner !
 
-<video src="https://otherworld.i-am-in-your.systems/yHggbwNubXfp" controls>
-  Your browser does not support the video tag.
-</video>
+<video src="https://otherworld.i-am-in-your.systems/yHggbwNubXfp" controls></video>
