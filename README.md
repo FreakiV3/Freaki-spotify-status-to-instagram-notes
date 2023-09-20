@@ -26,6 +26,7 @@ SPOTIFY_CLIENT_SECRET=""
 INSTAGRAM_USERNAME=""
 INSTAGRAM_PASSWORD=""
 INSTAGRAM_2FA_SEED="" // Remplissez uniquement si vous avez activé la 2FA et souhaitez générer automatiquement le code 2FA
+```
 Si vous passez d'un compte de production à un compte de développement, vous pouvez également utiliser des fichiers .env.production, .env.production.local, .env.development, .env.development.local.
 
 ## Configuration
